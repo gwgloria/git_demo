@@ -1,2 +1,2 @@
 hello git!
-fix something!
+fix something! master change
