@@ -1,2 +1,3 @@
 hello git!
 fix something! master change
+hot_fix change
